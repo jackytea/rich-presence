@@ -1,0 +1,6 @@
+/.env
+/build
+/dist
+/configs
+/utils/__pycache__
+/custom_discord_rich_presence.egg-info

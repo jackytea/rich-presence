@@ -1,0 +1,17 @@
+{
+    "state": "<YOUR_STATE_HERE>",
+    "details": "<YOUR_DETAILS_HERE>",
+    "start": 1,
+    "end": 10,
+    "large_image": "<LARGE_IMAGE_NAME>",
+    "large_text": "<LARGE_IMAGE_HOVER_TEXT>",
+    "small_image": "<SMALL_IMAGE_NAME>",
+    "small_text": "<SMALL_IMAGE_HOVER_TEXT>",
+    "party_id" : null,
+    "party_size": [1, 10],
+    "join": null,
+    "spectate": null,
+    "match": null,
+    "buttons":  [{"label": "<EXAMPLE_SITE_1>", "url": "<URL_1_HERE>"}, {"label": "<EXAMPLE_SITE_2>", "url": "<URL_2_HERE>"}],
+    "instance": true
+}
