@@ -7,7 +7,7 @@ This script is a wrapper for the [Pypresence](https://github.com/qwertyquerty/py
 ## Table of Contents
 
 - [Tech](#tech)<br/>
-- [Setup](#data)<br/>
+- [Setup](#setup)<br/>
 - [Example](#example)<br/>
 
 ## Tech
