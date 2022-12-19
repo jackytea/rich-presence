@@ -65,7 +65,10 @@ SLEEP_DELAY_MS=<INTEGER>
     "join": null,
     "spectate": null,
     "match": null,
-    "buttons":  [{"label": "<EXAMPLE_SITE_1>", "url": "<URL_1_HERE>"}, {"label": "<EXAMPLE_SITE_2>", "url": "<URL_2_HERE>"}],
+    "buttons":  [
+        {"label": "<EXAMPLE_SITE_1>", "url": "<URL_1_HERE>"}, 
+        {"label": "<EXAMPLE_SITE_2>", "url": "<URL_2_HERE>"}
+    ],
     "instance": true
 }
 ```
