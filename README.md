@@ -51,6 +51,7 @@ SLEEP_DELAY_MS=<INTEGER>
 **Step 5**: Edit the `config.json` to match the art assets in the **Rich Presence** tab of your Discord application. For more information on these fields see the [Pypresence documentation here](https://qwertyquerty.github.io/pypresence/html/doc/presence.html#update).
 
 ```json
+// configuration fields for rich presence
 {
     "state": "<YOUR_STATE_HERE>",
     "details": "<YOUR_DETAILS_HERE>",
